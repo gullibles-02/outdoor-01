@@ -1,13 +1,10 @@
 {
-  "name": "som777 ได้อย่างไร - เว็บใหม่ huay 2023 ล่าสุด",
+  "name": "k9w38t0DJIubBpANrURYcBC0MEpFZZ6PW3hFLIUpuIHtWXOJD4",
   "theme": "syntax",
   "version": "1.0.46",
   "description": "Som777 เม็ดเดียว ถ้า Som777 Huay หวยออนไลน์ อันดับหนึ่ง      87 487เลขเด็ดเจ้ฟองเบียร์ หวยลาว งวดวันที่ 31165ฟัน 8ได้แนวทางเลขเด็ดจากเจ้ฟองเบียร์ เลขครั้งน",
   "repository": "https://github.com/gullibles-02/outdoor-01",
-  "keywords": [
-    "SOM777",
-    "SOM777 Huay"
-  ],
+  "keywords": ["SOM777","SOM777 Huay"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
