@@ -1,10 +1,16 @@
 {
-  "name": "XgEJQ35QASNSzUQ1yNRFFpmRQyWD2n0gvt1GOKpe6lNa3fVhea",
+  "name": "เทรด หุ้นเยอรมัน สรุปว่าอะไร - เว็บใหม่ huaydee 2023 ล่าสุด-",
   "theme": "syntax",
   "version": "1.0.23",
   "description": "เทรด หุ้นเยอรมัน เลข แม้ว่า เทรด หุ้นเยอรมัน Huaydee หวยออนไลน์ อันดับหนึ่ง 3 ตัว หางเดียว (ตัดเล่นตามดวง) 617ได้แนวทางเลขเด็ดจากเจ๊นุ๊กกันแล้ว เลขครั้งนี้",
   "repository": "https://github.com/gullibles-02/outdoor-01",
-  "keywords": ["เทรด หุ้นเยอรมัน","เทรด","หุ้นเยอรมัน","เทรด Huaydee","หุ้นเยอรมัน Huaydee"],
+  "keywords": [
+    "เทรด หุ้นเยอรมัน",
+    "เทรด",
+    "หุ้นเยอรมัน",
+    "เทรด Huaydee",
+    "หุ้นเยอรมัน Huaydee"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
