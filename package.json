@@ -1,10 +1,22 @@
 {
-  "name": "byzPCcHJ5lFxB3vOkpnlV6CluTuEcpEsHrvwJ2aKtjJGO2AUM5",
+  "name": "ตรวจหวย 1 กันยายน 2565 ไทยรัฐ แตกต่างกันอย่างไร - เว็บใหม่ masurebet 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.44",
   "description": "ตรวจหวย 1 กันยายน 2565 ไทยรัฐ ท่านจะต้องชื่นชอบอย่างแน่นอนและหากท่านมีความรู้ความเข้าใจในการเล่นหวยมากเพียงพอนั้น ดั่ง ตรวจหวย 1 กันยายน 2565 ไทยรัฐ ที่ Ma",
   "repository": "https://github.com/gullibles-02/outdoor-01",
-  "keywords": ["ตรวจหวย 1 กันยายน 2565 ไทยรัฐ","ตรวจหวย","1","กันยายน","2565","ไทยรัฐ","ตรวจหวย Masurebet","1 Masurebet","กันยายน Masurebet","2565 Masurebet","ไทยรัฐ Masurebet"],
+  "keywords": [
+    "ตรวจหวย 1 กันยายน 2565 ไทยรัฐ",
+    "ตรวจหวย",
+    "1",
+    "กันยายน",
+    "2565",
+    "ไทยรัฐ",
+    "ตรวจหวย Masurebet",
+    "1 Masurebet",
+    "กันยายน Masurebet",
+    "2565 Masurebet",
+    "ไทยรัฐ Masurebet"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
