@@ -1,16 +1,10 @@
 {
-  "name": "จับยี่กี pantip ได้อย่างไร - เว็บใหม่ huaydee 2023 ล่าสุด",
+  "name": "aeiBMyVkamaHLjYjZr2qX1PPXBX43xYfh983gzveeNiimMIZNP",
   "theme": "syntax",
   "version": "1.0.16",
-  "description": "จับยี่กี Pantip ถ่ายทอดสด แม้ จับยี่กี Pantip ที่ Huaydee เว็บหวยออนไลน์ อันดับหนึ่ง ไทย พบ อินโดนีเซีย วอลเลย์บอลหญิง วัน อาเซียน กรังด์ปรีซ์ การแข่งขันวอ",
+  "description": "Lotto hub สำหรับท่านใดที่สนใจแทงหวยออมสิน ด้วย Lotto hub Huay หวย หวยออนไลน์ มีหวยทุกชนิด Lotto hub ท่านจำเป็นต้องสมัครบัญชีที่เว็บไซต์ Mawinbet เสียก่อน เ",
   "repository": "https://github.com/gullibles-02/outdoor-01",
-  "keywords": [
-    "จับยี่กี PANTIP",
-    "จับยี่กี",
-    "PANTIP",
-    "จับยี่กี Huaydee",
-    "PANTIP Huaydee"
-  ],
+  "keywords": ["LOTTO HUB","LOTTO","HUB","LOTTO Huay","HUB Huay"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
