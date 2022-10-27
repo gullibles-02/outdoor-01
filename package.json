@@ -1,10 +1,18 @@
 {
-  "name": "xVXfQ32c0RilBt9jgjrFJ4sHDAzZJ3Swwi7ia1jo1jNdm6CNeg",
+  "name": "สูตร ปราบ ยี่กี ดูยังไง - เว็บใหม่ masurebet 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.17",
   "description": "สูตร ปราบ ยี่กี เลขเด็ด ของ สูตร ปราบ ยี่กี ที่ Masurebet เว็บหวยออนไลน์ อันดับหนึ่ง ในงวดประจำวันอาทิตย์ที่ 16 มิถุนายน 2566 เว็บไซต์หวยไทยขอนำเสนอหวยเซีย",
   "repository": "https://github.com/gullibles-02/outdoor-01",
-  "keywords": ["สูตร ปราบ ยี่กี","สูตร","ปราบ","ยี่กี","สูตร Masurebet","ปราบ Masurebet","ยี่กี Masurebet"],
+  "keywords": [
+    "สูตร ปราบ ยี่กี",
+    "สูตร",
+    "ปราบ",
+    "ยี่กี",
+    "สูตร Masurebet",
+    "ปราบ Masurebet",
+    "ยี่กี Masurebet"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
