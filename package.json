@@ -1,10 +1,10 @@
 {
-  "name": "EMbyEMdGNz8YDrQFMx3Ho3b8llQOvfXDTbOxLyosWwHDZWvGsR",
+  "name": "txQzSbauZUriMZ7kTKrZtwFoFaGGOZJd6YTTe6bN5YyOvQZA9t",
   "theme": "syntax",
   "version": "1.0.8",
-  "description": "เว็บ win ปัจจุบันนี้หวยธนาคารไทยเริ่มมีเงื่อนไขการวางเดิมพันที่ค่อนข้างซับซ้อน ได้แก่ เว็บ win Huaysod หวยออนไลน์ อันดับหนึ่ง และมีการชี้แจงรายละเอียดที่ไม",
+  "description": "ตรวจ หวย 1 ตุลาคม 2565 หวยหุ้นจีน ถึง ตรวจ หวย 1 ตุลาคม 2565 ที่ Huaylike เว็บหวยออนไลน์ อันดับหนึ่ง จะออกตามการปิดทำการ ของตลาดหุ้น Shenzhen Stock Exchang",
   "repository": "https://github.com/gullibles-02/outdoor-01",
-  "keywords": ["เว็บ WIN","เว็บ","WIN","เว็บ Huaysod","WIN Huaysod"],
+  "keywords": ["ตรวจ หวย 1 ตุลาคม 2565","ตรวจ","หวย","1","ตุลาคม","2565","ตรวจ Huaylike","หวย Huaylike","1 Huaylike","ตุลาคม Huaylike","2565 Huaylike"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
