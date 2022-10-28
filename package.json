@@ -1,10 +1,16 @@
 {
-  "name": "rXZNpk0NGDlKfQjwOh6rUEruCExG70X8ERf50uZMgQ7MWjnp1y",
+  "name": "ตัวอย่าง หวยลาว ทำไมถึงนิยม - เว็บใหม่ huaydee 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.64",
   "description": "ตัวอย่าง หวยลาว เลขเด็ด แด่ ตัวอย่าง หวยลาว ที่ Huaydee เว็บหวยออนไลน์ อันดับหนึ่ง ที่เว็บไซต์หวยไทยจะนำเสนอในวันนี้นั้น เป็นชุดเลขจากหวยทร 1462 ชุดเลขผลงา",
   "repository": "https://github.com/gullibles-02/outdoor-01",
-  "keywords": ["ตัวอย่าง หวยลาว","ตัวอย่าง","หวยลาว","ตัวอย่าง Huaydee","หวยลาว Huaydee"],
+  "keywords": [
+    "ตัวอย่าง หวยลาว",
+    "ตัวอย่าง",
+    "หวยลาว",
+    "ตัวอย่าง Huaydee",
+    "หวยลาว Huaydee"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
