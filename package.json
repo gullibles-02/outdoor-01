@@ -1,10 +1,13 @@
 {
-  "name": "JMh7gYzmzwJrovYbzMFu1ENAmQoZcuG3nCmOFl7hwtYpnYNLvX",
+  "name": "สูตรยี่กีแม่นๆล่าสุด ดูยังไง - เว็บใหม่ huaydee 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.65",
   "description": "สูตรยี่กีแม่นๆล่าสุด ชุดเลขท้าย เท่ากับ สูตรยี่กีแม่นๆล่าสุด Huaydee หวยดี หวยออนไลน์ มีหวยทุกชนิด สูตรยี่กีแม่นๆล่าสุด 3 ตัว พร้อมหมุนไปกลับมีดังนี้054-04",
   "repository": "https://github.com/gullibles-02/outdoor-01",
-  "keywords": ["สูตรยี่กีแม่นๆล่าสุด","สูตรยี่กีแม่นๆล่าสุด Huaydee"],
+  "keywords": [
+    "สูตรยี่กีแม่นๆล่าสุด",
+    "สูตรยี่กีแม่นๆล่าสุด Huaydee"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
